@@ -76,9 +76,9 @@ Lightweight AI deployment ensures easy scalability for cities of various sizes.
 
 | Stakeholder | Benefit |
 |--------------|----------|
-| **Citizens** | Easy issue reporting, real-time updates, and community empowerment. |
-| **Authorities** | Reduced manual sorting, AI-classified inputs, and actionable dashboards. |
-| **Society** | Cleaner infrastructure, transparent governance, and improved civic engagement. |
+| **Citizens** | Easy issue reporting, real-time updates, and community empowerment.
+| **Authorities** | Reduced manual sorting, AI-classified inputs, and actionable dashboards.
+| **Society** | Cleaner infrastructure, transparent governance, and improved civic engagement. 
 
 ---
 
