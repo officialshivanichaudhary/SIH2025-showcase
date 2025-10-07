@@ -1,5 +1,5 @@
 # 🏙️ CivicFix — Crowdsourced Civic Issue Reporting and Resolution System  
-_A Smart India Hackathon 2024 Project_  
+_A Smart India Hackathon 2025 Project_  
 
 ### 🧠 Problem Statement
 **Problem ID:** 25031  
@@ -86,8 +86,12 @@ Lightweight AI deployment ensures easy scalability for cities of various sizes.
 
 | Name | Role |
 |------|------|
-| **Shivani Chaudhary** | Backend Developer |
-| **[Add other teammates if needed]** | — |
+| **Shivani Chaudhary** | Backend Developement(admin pannel) |
+| **Daksh Verma** |AI Integration |
+| **Nishtha Dobhaal** | Backend Developement(user pannel) |
+| **Samriddhi Mishra** | frontend Developement |
+| **Rishab Rana** | frontend Developement |
+| **Kamaldeep Soni** | frontend Developement |
 
 ---
 
@@ -110,7 +114,7 @@ Lightweight AI deployment ensures easy scalability for cities of various sizes.
 
 ## ⚠️ Disclaimer
 
-This project was developed under **Smart India Hackathon 2024** for educational and research purposes only.  
+This project was developed under **Smart India Hackathon 2025** for educational and research purposes only.  
 All data, models, and assets used belong to their respective owners.  
 No commercial usage intended.
 
