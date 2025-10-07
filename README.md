@@ -97,11 +97,9 @@ Lightweight AI deployment ensures easy scalability for cities of various sizes.
 
 ## 🖼️ Screenshots
 
-| Citizen Interface | Authority Dashboard |
-|-------------------|---------------------|
-| ![Citizen UI](https://github.com/user-attachments/assets/655613c4-d956-436d-aa01-52d6a6aed770)|
-| ![Admin Dashboard](https://github.com/user-attachments/assets/ee9dd306-0f3e-4a04-8a87-e272451d2d36)|
-| ![Dashboard](https://github.com/user-attachments/assets/5198c1ad-c7b4-41ec-bf57-3a8b6a0db6c4)
+- ![Citizen UI](https://github.com/user-attachments/assets/655613c4-d956-436d-aa01-52d6a6aed770)|
+- ![Admin Dashboard](https://github.com/user-attachments/assets/ee9dd306-0f3e-4a04-8a87-e272451d2d36)|
+- ![Dashboard](https://github.com/user-attachments/assets/5198c1ad-c7b4-41ec-bf57-3a8b6a0db6c4)
 
 ---
 
